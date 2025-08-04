@@ -21,7 +21,9 @@ An intelligent, AI-powered system for asking questions about uploaded academic d
 
 👉 **One-click run via GitHub Codespaces:**
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=YourUsername/Nave-AI&machine=basicLinux&devcontainer_path=.devcontainer/devcontainer.json)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=YourUsername/Nave-AI&ref=main&machine=basicLinux&devcontainer_path=.devcontainer/devcontainer.json)
+
+
 
 > Once Codespace is open, the server will automatically run using:
 
